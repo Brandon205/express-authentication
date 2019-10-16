@@ -5,7 +5,8 @@
     "browser": true,
     "jquery": true,
     "node": true,
-    "mocha": true
+    "mocha": true,
+    "es6": true
   },
 
   "globals": {},
@@ -16,6 +17,7 @@
     "func-names": 0,
     "space-before-function-paren": 0,
     "new-cap": 0,
-    "no-param-reassign": 0
+    "no-param-reassign": 0,
+    "no-console": 0
   }
 }
